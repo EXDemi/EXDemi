@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EXDemi
+- 👋 Hi
 - 👀 I’m interested in web code and games
 - 🌱 I’m currently learning python
 
